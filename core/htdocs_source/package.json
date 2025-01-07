@@ -79,7 +79,7 @@
     "prettier": "^3.2.4",
     "qunit": "^2.20.0",
     "qunit-dom": "^3.0.0",
-    "slim-select": "^2.8.1",
+    "slim-select": "^2.9.2",
     "stylelint": "^16.1.0",
     "stylelint-config-prettier": "^9.0.5",
     "stylelint-config-standard": "^36.0.0",
@@ -87,8 +87,8 @@
     "superstruct": "^1.0.3",
     "tippy.js": "^6.3.7",
     "tracked-built-ins": "^3.3.0",
-    "uplot": "^1.6.28",
-    "webpack": "^5.89.0"
+    "uplot": "^1.6.31",
+    "webpack": "^5.94.0"
   },
   "engines": {
     "node": ">= 18"
